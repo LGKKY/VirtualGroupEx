@@ -34,7 +34,7 @@ dotnet publish -c Release -o published/
 cd published/
 ```
 
-#运行
+#### 运行
 
 ```shell
 # 启动 VirtualGroupEx
@@ -42,11 +42,11 @@ dotnet VirtualGroupEx.Server.dll
 ```
 
 配置文件在 ` appsettings.json `
-另外，反代需要正确[配置Web Socket](https://docs.microsoft.com/zh-cn/aspnet/core/blazor/host-and-deploy/server?view=aspnetcore-5.0) 。
+另外，反代需要[配置Web Socket](https://docs.microsoft.com/zh-cn/aspnet/core/blazor/host-and-deploy/server?view=aspnetcore-5.0) 。
  
 
 ## 截图
-
+截图可能不是最新的，可自行在软件内体验
 [![RpH7VS.md.png](https://z3.ax1x.com/2021/06/18/RpH7VS.md.png)](https://imgtu.com/i/RpH7VS)
 [![RpHob8.md.png](https://z3.ax1x.com/2021/06/18/RpHob8.md.png)](https://imgtu.com/i/RpHob8)
 [![RpHIDf.md.png](https://z3.ax1x.com/2021/06/18/RpHIDf.md.png)](https://imgtu.com/i/RpHIDf)
